@@ -5,3 +5,5 @@ This peer assessed assignment has two parts. First,  a Shiny application deploye
 Included are the ui.R and server.R source codes to the App.
 
 The app is available at https://heisenberg967.shinyapps.io/DDPProj/
+
+The presentation can be viewed on RPubs: http://rpubs.com/heisenberg967/405196
